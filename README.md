@@ -35,7 +35,7 @@ In this project, we would learn Python programming techniques to manipulate and 
 ### Project Team and Timeline
 **Team Members:**
 - Jun Liang (Tim)
-- Li Linzhi Hem
+- Linzhi He
 - Michael Thompson
 
 **Timeline:**
