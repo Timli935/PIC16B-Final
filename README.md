@@ -1,4 +1,4 @@
-# PIC16B-Final
+# PIC16B Final Proposal
 
 ## Gold Price Prediction Using Machine Learning
 
