@@ -42,7 +42,7 @@ In this project, we would learn Python programming techniques to manipulate and 
 - **End of Week 7:** Data collection and processing.
 - **End of Week 8:** Test multiple machine learning algorithms.
   - Jun Liang: Random Forest Regression
-  - Linzhi Hem: Gradient Boosting Regression
+  - Linzhi He: Gradient Boosting Regression
   - Michael Thompson: Extra Trees Regression
 - **End of Week 9:** Optimize models and finalize report.
 - **Weekend after Week 9:** Final presentation preparations.
